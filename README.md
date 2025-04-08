@@ -1,4 +1,4 @@
-# DestroySpamJudol
+# DestroySpamJudol 🧼
 
 ![cover](./assets/1.jpg)
 
