@@ -1,6 +1,6 @@
 # DestroySpamJudol
 
-![cover](./assets/dog_idle.gif)
+![cover](./assets/1.jpg)
 
 Install bumbu sebelum memakai
 - pip install google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client
