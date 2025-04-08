@@ -2,9 +2,8 @@
 
 ![cover](./assets/1.jpg)
 
-# How To Use | Cara Penggunaan
+# Persiapan
 - Download python [![Download Python](https://img.shields.io/badge/Download-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/downloads/)
-
 # ☁️ Siapkan YouTube API
 - Buat dulu [![Google Cloud Console](https://img.shields.io/badge/Google%20Cloud%20Console-API-blue?style=for-the-badge&logo=googlecloud&logoColor=white)](https://console.cloud.google.com/)
 - Masuk ke library
